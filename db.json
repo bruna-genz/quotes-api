@@ -1,0 +1,19 @@
+{
+    "quotes": [
+        {
+            "id": 1,
+            "quote": "blablabla",
+            "author": "John Smith"
+        },
+        {
+            "id": 2,
+            "quote": "blablabla2",
+            "author": "John Smith2"
+        },
+        {
+            "id": 3,
+            "quote": "blablabla3",
+            "author": "John Smith3"
+        }
+    ]
+}
