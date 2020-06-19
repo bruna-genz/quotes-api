@@ -1,0 +1,23 @@
+{
+  "name": "quotesapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruna-genz/quotes-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruna-genz/quotes-api/issues"
+  },
+  "homepage": "https://github.com/bruna-genz/quotes-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
